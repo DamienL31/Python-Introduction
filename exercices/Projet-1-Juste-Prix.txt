@@ -17,3 +17,4 @@ maximum (par exemple, entre 1 et 100).
 
  Amélioration : Gérez les différentes erreurs potentielles de saisie et 
 montrez le nombre d'essais de l’utilisateur pour arriver au juste prix.
+
